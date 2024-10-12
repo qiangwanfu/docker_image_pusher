@@ -1,18 +1,42 @@
-hello-world
+#hello-world
 
 #thingsboard
 #包
+thingsboard/zookeeper
+thingsboard/coap-clients
+thingsboard/rabbitmq
+thingsboard/haproxy-certbot
+thingsboard/redis
+thingsboard/tb-lwm2m-transport
+thingsboard/tb-js-executor
+thingsboard/tb-vc-executor
+thingsboard/tb-web-ui
+thingsboard/tb-mqtt-transport
+thingsboard/tb-coap-transport
+thingsboard/tb-snmp-transport
+thingsboard/tb-http-transport
+thingsboard/tb-node
+thingsboard/tb-postgres
+thingsboard/tb-edge
 thingsboard/tb-gateway
-
+thingsboard/kafka
+thingsboard/redis-cluster
+thingsboard/postgres
+thingsboard/cassandra
+thingsboard/cp-zookeeper
+thingsboard/cp-kafka
 #编译 依赖包
  thingsboard/tb-postgres
  thingsboard/node:16.20.2-bookworm-slim
  thingsboard/openjdk17:bookworm-slim
  thingsboard/openjdk21:bookworm-slim
 
-nginx
+
+
+
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
