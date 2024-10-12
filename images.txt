@@ -1,22 +1,5 @@
+
 hello-world
-
-#thingsboard
-#包
-
-thingsboard/tb-postgres
-thingsboard/tb-edge
-thingsboard/tb-gateway
-thingsboard/kafka
-thingsboard/redis-cluster
-thingsboard/postgres
-thingsboard/cassandra
-thingsboard/cp-zookeeper
-thingsboard/cp-kafka
-#编译 依赖包
- thingsboard/node:16.20.2-bookworm-slim
- thingsboard/openjdk17:bookworm-slim
- thingsboard/openjdk21:bookworm-slim
-
 
 
 
