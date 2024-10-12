@@ -2,7 +2,7 @@
 
 #thingsboard
 #包
-#thingsboard/zookeeper
+thingsboard/zookeeper
 thingsboard/coap-clients
 thingsboard/rabbitmq
 thingsboard/haproxy-certbot
