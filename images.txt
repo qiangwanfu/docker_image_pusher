@@ -1,6 +1,9 @@
 hello-world
 
 #thingsboard
+
+FROM thingsboard/tb-postgres
+
 FROM thingsboard/node:16.20.2-bookworm-slim
 FROM thingsboard/openjdk17:bookworm-slim
 
