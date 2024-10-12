@@ -1,4 +1,9 @@
 hello-world
+
+#thingsboard
+FROM thingsboard/node:16.20.2-bookworm-slim
+FROM thingsboard/openjdk17:bookworm-slim
+
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
