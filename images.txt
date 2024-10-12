@@ -2,8 +2,10 @@ hello-world
 
 #thingsboard
 #包
- thingsboard/tb-postgres
+thingsboard/tb-gateway
+
 #编译 依赖包
+ thingsboard/tb-postgres
  thingsboard/node:16.20.2-bookworm-slim
  thingsboard/openjdk17:bookworm-slim
 
