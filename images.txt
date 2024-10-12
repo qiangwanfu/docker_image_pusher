@@ -1,11 +1,11 @@
 hello-world
 
 #thingsboard
-
-FROM thingsboard/tb-postgres
-
-FROM thingsboard/node:16.20.2-bookworm-slim
-FROM thingsboard/openjdk17:bookworm-slim
+#包
+ thingsboard/tb-postgres
+#编译 依赖包
+ thingsboard/node:16.20.2-bookworm-slim
+ thingsboard/openjdk17:bookworm-slim
 
 nginx
 #支持私库
