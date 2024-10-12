@@ -1,7 +1,10 @@
 
 hello-world
 
-
+#编译 依赖包
+ thingsboard/node:16.20.2-bookworm-slim
+ thingsboard/openjdk17:bookworm-slim
+ thingsboard/openjdk21:bookworm-slim
 
 nginx
 #支持私库
