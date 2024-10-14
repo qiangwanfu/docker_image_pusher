@@ -15,7 +15,7 @@ hello-world
 # zookeeper     
 # thingsboard/tb-lwm2m-transport 
 
-thingsboard/postgres:15
+# thingsboard/postgres:15
 thingsboard/tb-edge:3.7.0EDGE
 thingsboard/tb-edge:3.8.0EDGE
 thingsboard/tb-node:latest 
