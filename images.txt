@@ -1,7 +1,30 @@
 
 hello-world
 
-  thingsboard/tb-cassandra:latest
+ thingsboard/zookeeper
+thingsboard/coap-clients
+thingsboard/rabbitmq
+thingsboard/haproxy-certbot
+thingsboard/redis
+thingsboard/tb-lwm2m-transport
+thingsboard/tb-js-executor
+thingsboard/tb-vc-executor
+thingsboard/tb-web-ui
+thingsboard/tb-mqtt-transport
+thingsboard/tb-coap-transport
+thingsboard/tb-snmp-transport
+thingsboard/tb-http-transport
+thingsboard/tb-node
+thingsboard/tb-postgres
+thingsboard/tb-edge
+thingsboard/tb-gateway
+thingsboard/kafka
+thingsboard/redis-cluster
+thingsboard/postgres
+thingsboard/cassandra
+thingsboard/cp-zookeeper
+thingsboard/cp-kafka
+
 thingsboard/tb-postgres
 thingsboard/tb-edge
 thingsboard/tb-gateway
