@@ -1,29 +1,29 @@
 
 hello-world
 
- thingsboard/zookeeper
-thingsboard/coap-clients
-thingsboard/rabbitmq
-thingsboard/haproxy-certbot
-thingsboard/redis
-thingsboard/tb-lwm2m-transport
-thingsboard/tb-js-executor
-thingsboard/tb-vc-executor
-thingsboard/tb-web-ui
-thingsboard/tb-mqtt-transport
-thingsboard/tb-coap-transport
-thingsboard/tb-snmp-transport
-thingsboard/tb-http-transport
-thingsboard/tb-node
-thingsboard/tb-postgres
-thingsboard/tb-edge
-thingsboard/tb-gateway
-thingsboard/kafka
-thingsboard/redis-cluster
-thingsboard/postgres
-thingsboard/cassandra
-thingsboard/cp-zookeeper
-thingsboard/cp-kafka
+ thingsboard/zookeeper:latest
+thingsboard/coap-clients:latest
+thingsboard/rabbitmq:latest
+thingsboard/haproxy-certbot:latest
+thingsboard/redis:latest
+thingsboard/tb-lwm2m-transport:latest
+thingsboard/tb-js-executor:latest
+thingsboard/tb-vc-executor:latest
+thingsboard/tb-web-ui:latest
+thingsboard/tb-mqtt-transport:latest
+thingsboard/tb-coap-transport:latest
+thingsboard/tb-snmp-transport:latest
+thingsboard/tb-http-transport:latest
+thingsboard/tb-node:latest
+thingsboard/tb-postgres:latest
+thingsboard/tb-edge:latest
+thingsboard/tb-gateway:latest
+thingsboard/kafka:latest
+thingsboard/redis-cluster:latest
+thingsboard/postgres:latest
+thingsboard/cassandra:latest
+thingsboard/cp-zookeeper:latest
+thingsboard/cp-kafka:latest
 
 thingsboard/tb-postgres
 thingsboard/tb-edge
