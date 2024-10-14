@@ -10,7 +10,7 @@ thingsboard/tb-web-ui
 thingsboard/tb-vc-executor
 #  thingsboard/tb-rule-engine
  thingsboard/tb-http-transport
- thingsboard/ tb-core
+ thingsboard/tb-core
  thingsboard/tb-mqtt-transport
  thingsboard/zookeeper     
  thingsboard/tb-lwm2m-transport 
