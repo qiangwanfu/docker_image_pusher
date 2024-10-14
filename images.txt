@@ -15,8 +15,8 @@ hello-world
  thingsboard/ tb-core
   thingsboard/tb-mqtt-transport
  thingsboard/tb-http-transport
-  thingsboard/tb-core1 Error         
-  thingsboard/zookeeper Error      
+  thingsboard/tb-core 
+  thingsboard/zookeeper     
  thingsboard/tb-lwm2m-transport 
 #编译 依赖包
  thingsboard/node:16.20.2-bookworm-slim
