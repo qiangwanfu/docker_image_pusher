@@ -1,20 +1,21 @@
 
 hello-world
 
-thingsboard/tb-js-executor
-thingsboard/tb-node
-haproxy
-thingsboard/tb-coap-transport
-thingsboard/tb-snmp-transport
-thingsboard/tb-web-ui
-thingsboard/tb-vc-executor
+#thingsboard/tb-js-executor
+#thingsboard/tb-node
+#haproxy
+#thingsboard/tb-coap-transport
+#thingsboard/tb-snmp-transport
+#thingsboard/tb-web-ui
+#thingsboard/tb-vc-executor
 #  thingsboard/tb-rule-engine
- thingsboard/tb-http-transport
+# thingsboard/tb-http-transport
 # thingsboard/tb-core
- thingsboard/tb-mqtt-transport
- zookeeper     
- thingsboard/tb-lwm2m-transport 
+# thingsboard/tb-mqtt-transport
+# zookeeper     
+# thingsboard/tb-lwm2m-transport 
 
+ thingsboard/tb-core
 #prom/prometheus:v2.1.0
 bitnami/kafka:3.7.0
 bitnami/redis:7.2
@@ -22,9 +23,9 @@ bitnami/redis-cluster:7.2
 zookeeper:3.8.0
 postgres:15
 #编译 依赖包
- thingsboard/node:16.20.2-bookworm-slim
- thingsboard/openjdk17:bookworm-slim
- thingsboard/openjdk21:bookworm-slim
+# thingsboard/node:16.20.2-bookworm-slim
+# thingsboard/openjdk17:bookworm-slim
+# thingsboard/openjdk21:bookworm-slim
 
 nginx
 #支持私库
