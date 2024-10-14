@@ -2,28 +2,7 @@
 hello-world
 
 thingsboard/cassandra:latest
-thingsboard/coap-clients:latest
-thingsboard/cp-kafka:latest
-thingsboard/cp-zookeeper:latest
-thingsboard/haproxy-certbot:latest
-thingsboard/kafka:latest
-thingsboard/postgres:latest
-thingsboard/rabbitmq:latest
-thingsboard/redis:latest
-thingsboard/redis-cluster:latest
-thingsboard/tb-coap-transport:latest
-thingsboard/tb-edge:latest
-thingsboard/tb-gateway:latest
-thingsboard/tb-http-transport:latest
-thingsboard/tb-js-executor:latest
-thingsboard/tb-lwm2m-transport:latest
-thingsboard/tb-mqtt-transport:latest
-thingsboard/tb-node:latest
-thingsboard/tb-postgres:latest
-thingsboard/tb-snmp-transport:latest
-thingsboard/tb-vc-executor:latest
-thingsboard/tb-web-ui:latest
-thingsboard/zookeeper:latest
+
 
 thingsboard/tb-postgres
 thingsboard/tb-edge
