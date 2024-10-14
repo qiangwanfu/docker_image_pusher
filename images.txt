@@ -1,12 +1,7 @@
 
 hello-world
 
-thingsboard/kafka
-thingsboard/redis-cluster
-thingsboard/postgres
-thingsboard/cassandra
-thingsboard/cp-zookeeper
-thingsboard/cp-kafka
+  thingsboard/tb-cassandra:latest
 thingsboard/tb-postgres
 thingsboard/tb-edge
 thingsboard/tb-gateway
