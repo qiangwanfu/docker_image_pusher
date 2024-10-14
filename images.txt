@@ -4,9 +4,9 @@ hello-world
 thingsboard/cassandra:latest
 
 
-thingsboard/tb-postgres
-thingsboard/tb-edge
-thingsboard/tb-gateway
+thingsboard/tb-postgres:latest
+thingsboard/tb-edge:latest
+thingsboard/tb-gateway:latest
 #编译 依赖包
  thingsboard/node:16.20.2-bookworm-slim
  thingsboard/openjdk17:bookworm-slim
