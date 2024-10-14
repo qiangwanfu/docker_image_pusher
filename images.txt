@@ -2,6 +2,7 @@
 hello-world
 
   thingsboard/tb-js-executor
+thingsboard/tb-node
   haproxy
   thingsboard/tb-coap-transport
   thingsboard/tb-snmp-transport
