@@ -15,7 +15,7 @@ hello-world
 # zookeeper     
 # thingsboard/tb-lwm2m-transport 
 
-# thingsboard/postgres:15
+postgres:15
 thingsboard/tb-edge:3.7.0EDGE
 thingsboard/tb-edge:3.8.0EDGE
 thingsboard/tb-node:latest 
@@ -24,8 +24,8 @@ thingsboard/tb-mqtt-transport:latest
 thingsboard/tb-web-ui:latest
 thingsboard/tb-js-executor:latest 
 thingsboard/tb-vc-executor:latest
-thingsboard/haproxy-certbot:2.2.33-alpine
-thingsboard/zookeeper:3.8.0 
+haproxy-certbot:2.2.33-alpine
+zookeeper:3.8.0 
 
 #prom/prometheus:v2.1.0
 bitnami/kafka:3.7.0
