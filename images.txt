@@ -1,6 +1,7 @@
 
 hello-world
 
+elasticsearch/elasticsearch:7.13.4
 #thingsboard/tb-js-executor
 #thingsboard/tb-node
 #haproxy
@@ -15,24 +16,24 @@ hello-world
 # zookeeper     
 # thingsboard/tb-lwm2m-transport 
 
-postgres:15
-thingsboard/tb-edge:3.7.0EDGE
-thingsboard/tb-edge:3.8.0EDGE
-thingsboard/tb-node:latest 
-thingsboard/tb-http-transport:latest
-thingsboard/tb-mqtt-transport:latest
-thingsboard/tb-web-ui:latest
-thingsboard/tb-js-executor:latest 
-thingsboard/tb-vc-executor:latest
-haproxy-certbot:2.2.33-alpine
-zookeeper:3.8.0 
+#postgres:15
+#thingsboard/tb-edge:3.7.0EDGE
+#thingsboard/tb-edge:3.8.0EDGE
+#thingsboard/tb-node:latest 
+#thingsboard/tb-http-transport:latest
+#thingsboard/tb-mqtt-transport:latest
+#thingsboard/tb-web-ui:latest
+#thingsboard/tb-js-executor:latest 
+#thingsboard/tb-vc-executor:latest
+#haproxy-certbot:2.2.33-alpine
+#zookeeper:3.8.0 
 
 #prom/prometheus:v2.1.0
-bitnami/kafka:3.7.0
-bitnami/redis:7.2
-bitnami/redis-cluster:7.2
-zookeeper:3.8.0
-postgres:15
+#bitnami/kafka:3.7.0
+#bitnami/redis:7.2
+#bitnami/redis-cluster:7.2
+#zookeeper:3.8.0
+#postgres:15
 #编译 依赖包
 # thingsboard/node:16.20.2-bookworm-slim
 # thingsboard/openjdk17:bookworm-slim
